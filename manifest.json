@@ -1,1 +1,1 @@
-{"payload":{"version":1,"endpoints":["https://api.yohovpn.com","https://api2.yohomobile.com"]},"sig":"cSLSe7PUWBeMsYR5xSkA1skP3gDXNQps8xYqrl8XpqjPX4dMP3lr64fvlG+joL/Bam/PqeyWxGGZIKKnekRyCg=="}
+{"payload":{"version":2,"endpoints":["https://api.yohovpn.com","https://api2.yohomobile.com"],"quicTunnelDomains":["tiktokv.com","tiktokcdn.com","byteoversea.net","byteglb.com","bytewlb.com","ibytedtos.com","ibyteimg.com"]},"sig":"h48RLiVW5XL+mzWYUdHWp9UKs6whnNwVJ4PPf4ZjQM7Wfyw/ZcZE5llmtYZuCA4uRYOiHIA7XwYGsFGb+73cDw=="}
